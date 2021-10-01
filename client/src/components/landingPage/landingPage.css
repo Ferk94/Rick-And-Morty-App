@@ -1,0 +1,18 @@
+.landing{
+    background-image: url('https://fondosmil.com/fondo/27342.jpg');
+    padding-bottom: 1000px;
+}
+
+.l-button{
+    height: 60px;
+    width: 130px;
+    background-color: transparent;
+    font-size: 30px;
+    color: Pink;
+    
+}
+
+.l-button:hover{
+    background-color: pink;
+    color: black
+}
